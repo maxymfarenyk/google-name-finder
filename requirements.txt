@@ -4,3 +4,6 @@ locust~=2.34.0
 requests~=2.32.3
 PyJWT~=2.10.1
 flask~=3.1.0
+gunicorn
+webdriver-manager~=4.0.2
+python-dotenv~=1.1.0
