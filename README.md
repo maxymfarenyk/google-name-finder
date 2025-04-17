@@ -1,6 +1,6 @@
 # Google-name-finder
 
-Веб-застосунок, що дозволяє знайти статті на вікіпедії про людей із твоїм імене доступний за [посиланням](https://google-name-finder-doc.onrender.com/)
+Веб-застосунок, що дозволяє знайти статті на вікіпедії про людей із твоїм іменем доступний за [посиланням](https://google-name-finder-doc.onrender.com/)
 
 ## 1. Deploy application to some cloud
 
